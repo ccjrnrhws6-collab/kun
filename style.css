@@ -1,0 +1,12 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,"Segoe UI","Noto Sans TC","PingFang TC",sans-serif;color:#1d2433;background:#f6f7fb;line-height:1.6}
+a{color:#3b5bdb}header,footer{background:#fff;border-bottom:1px solid #e3e6ef}footer{border-top:1px solid #e3e6ef;border-bottom:0;margin-top:3rem;padding:1.5rem 0;font-size:.9rem;color:#667}
+.wrap{max-width:960px;margin:0 auto;padding:0 1.2rem}.nav{display:flex;justify-content:space-between;align-items:center;padding:.8rem 0;gap:1rem;flex-wrap:wrap}
+.brand{font-weight:800;font-size:1.4rem;text-decoration:none;color:#1d2433}.nav nav a{margin-left:1rem;text-decoration:none}
+.hero{padding:2.5rem 0 1rem}.hero h1{font-size:2rem;margin:0 0 .5rem}
+.card{background:#fff;border:1px solid #e3e6ef;border-radius:14px;padding:1.5rem;margin:1.5rem 0;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+.card h2{margin-top:0}.badge{display:inline-block;background:#fff4e0;color:#a35b00;border-radius:99px;padding:.15rem .7rem;font-size:.85rem;font-weight:600}
+.shots{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem;margin:1rem 0}.shots img{width:100%;border-radius:8px;border:1px solid #e3e6ef}
+ul{padding-left:1.2rem}button.lang{border:1px solid #c7cde0;background:#fff;border-radius:8px;padding:.3rem .8rem;cursor:pointer}
+table{border-collapse:collapse;width:100%;font-size:.92rem;margin:1rem 0}td,th{border:1px solid #dde1ec;padding:.5rem;text-align:left;vertical-align:top}th{background:#f0f2f8}
+.tblwrap{overflow-x:auto}code{background:#eef0f6;padding:0 .3rem;border-radius:4px}
+html[lang=en] .zh,html[lang=zh-Hant] .en{display:none}
