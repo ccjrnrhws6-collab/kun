@@ -10,3 +10,4 @@ ul{padding-left:1.2rem}button.lang{border:1px solid #c7cde0;background:#fff;bord
 table{border-collapse:collapse;width:100%;font-size:.92rem;margin:1rem 0}td,th{border:1px solid #dde1ec;padding:.5rem;text-align:left;vertical-align:top}th{background:#f0f2f8}
 .tblwrap{overflow-x:auto}code{background:#eef0f6;padding:0 .3rem;border-radius:4px}
 html[lang=en] .zh,html[lang=zh-Hant] .en{display:none}
+.btn{display:inline-block;background:#1f5eff;color:#fff;font-weight:600;padding:.6rem 1.2rem;border-radius:10px;text-decoration:none}.btn:hover{background:#1748c9}
